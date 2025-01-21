@@ -33,7 +33,7 @@ const Resume = () => {
               <h2>Aman Hussain</h2>
             </div>
             <div style={{ display: 'flex', flexDirection: 'row' }} bis_skin_checked="1">
-              <p>Product Design in Islamabad, PK, he/him</p>
+              <p>Product Designer in Islamabad, PK, he/him</p>
             </div>
             <div className="profileBadge" bis_skin_checked="1">
               <div data-custom-domain="false" className="badgeLink" bis_skin_checked="1">
@@ -47,7 +47,7 @@ const Resume = () => {
         <section data-print="true" id="Profile_aboutID__Z2GAs" style={{opacity: 1}}>
         <h3>About</h3>
         <div className="Profile_about__Q_Z_r" bis_skin_checked="1">
-        <p>Adaptable digital product designer with a flair for visual creativity. My background in visual design helps me create pragmatic solutions to complex problems, focussed on delighting users.</p>
+        <p>Product Designer with expertise in Experience and Interface Design, dedicated to creating intuitive and impactful solutions that address real-world challenges. My design philosophy is rooted in a deep understanding of user needs and behaviors, allowing me to craft experiences that are both aesthetically pleasing and highly functional.</p>
         </div>
         </section>
         <section data-print="true" id="contact" style={{opacity: 1}}>

@@ -354,3 +354,7 @@ section p {
 .ProfileItem_location__5TQPF {
   color: var(--grey2);
 }
+
+.ProfileItem_location__5TQPF+.ProfileItem_description__9_b0E {
+  margin-top: 8px;
+}
