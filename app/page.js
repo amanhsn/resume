@@ -63,11 +63,11 @@ const Resume = () => {
         </path></svg></span></div></div></div></div>
         <div className="ContactItem_contact__9zpDH" bis_skin_checked="1">
         <div className="ContactItem_platform__6b5md" bis_skin_checked="1">
-        <span>Instagram</span>
+        <span>Behance</span>
         </div>
         <div className="ContactItem_platformLink___dB19" bis_skin_checked="1">
         <div bis_skin_checked="1">
-        <a className="MegaLink_megalink__u_TFB" href="https://instagram.com/aman.h" target="_blank" rel="noopener noreferrer me" data-hover="true">aman.h_</a>
+        <a className="MegaLink_megalink__u_TFB" href="https://behance.com/amanhsn" target="_blank" rel="noopener noreferrer me" data-hover="true">aman.h_</a>
         <span style={{whiteSpace: 'nowrap'}}>﻿<svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M3.5 3C3.22386 3 3 3.22386 3 3.5C3 3.77614 3.22386 4 3.5 4V3ZM8.5 3.5H9C9 3.22386 8.77614 3 8.5 3V3.5ZM8 8.5C8 8.77614 8.22386 9 8.5 9C8.77614 9 9 8.77614 9 8.5H8ZM2.64645 8.64645C2.45118 8.84171 2.45118 9.15829 2.64645 9.35355C2.84171 9.54882 3.15829 9.54882 3.35355 9.35355L2.64645 8.64645ZM3.5 4H8.5V3H3.5V4ZM8 3.5V8.5H9V3.5H8ZM8.14645 3.14645L2.64645 8.64645L3.35355 9.35355L8.85355 3.85355L8.14645 3.14645Z" fill="#eee">
         </path></svg></span></div></div></div>
         <div className="ContactItem_contact__9zpDH" bis_skin_checked="1">
@@ -86,14 +86,14 @@ const Resume = () => {
     <div className="ReplyContainer_replyContainerWrap__eWAYB" data-confirm="false" data-reply="false" data-admin="false" data-noreply="false" data-desktop="true" bis_skin_checked="1">
       <div className="ProfileItem_experience__YXtvH" data-flag="profileItem" bis_skin_checked="1">
         <div className="ProfileItem_duration__utkpJ" bis_skin_checked="1">
-          <span>2023 — Now</span>
+          <span>Apr 2024 — Now</span>
         </div>
         <div className="ProfileItem_experienceContent__0E9pa" bis_skin_checked="1">
           <div bis_skin_checked="1">
-            Product Designer<span> at komoot</span>
+            UI/UX Designer<span> at Elite IT</span>
           </div>
           <div className="ProfileItem_description__9_b0E" bis_skin_checked="1">
-            <p>Working to make outdoor adventures accessible to all.</p>
+          <p>I've worked with a variety of clients, from local startups to global corporations. Previous projects include websites designed and built, full service branding, children's books, seasonal campaigns, editorial design, and more.</p>
           </div>
         </div>
       </div>
@@ -114,12 +114,12 @@ const Resume = () => {
     <div className="ReplyContainer_replyContainerWrap__eWAYB" data-confirm="false" data-reply="false" data-admin="false" data-noreply="false" data-desktop="true" bis_skin_checked="1">
       <div className="ProfileItem_experience__YXtvH" data-flag="profileItem" bis_skin_checked="1">
         <div className="ProfileItem_duration__utkpJ" bis_skin_checked="1">
-          <span>2019 — 2022</span>
+          <span>Jun 2024 — Now</span>
         </div>
         <div className="ProfileItem_experienceContent__0E9pa" bis_skin_checked="1">
           <div className="ProfileItem_title__rsz3J" bis_skin_checked="1">
-            <a className="MegaLink_megalink__u_TFB ProfileItem_titleLink__qXU7l" href="http://ellencovey.com" target="_blank" rel="noopener noreferrer" data-hover="true">
-              Freelance Designer<span> at Ellen Covey</span>
+            <a className="MegaLink_megalink__u_TFB ProfileItem_titleLink__qXU7l" href="http://oryns.framer.website" target="_blank" rel="noopener noreferrer" data-hover="true">
+              Freelance Product Designer<span> at Oryns</span>
             </a>
             <span style={{ whiteSpace: 'nowrap' }}>
               <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -149,11 +149,11 @@ const Resume = () => {
     <div className="ReplyContainer_replyContainerWrap__eWAYB" data-confirm="false" data-reply="false" data-admin="false" data-noreply="false" data-desktop="true" bis_skin_checked="1">
       <div className="ProfileItem_experience__YXtvH" data-flag="profileItem" bis_skin_checked="1">
         <div className="ProfileItem_duration__utkpJ" bis_skin_checked="1">
-          <span>2019 — 2021</span>
+          <span>Oct 2023 — Jan 2024</span>
         </div>
         <div className="ProfileItem_experienceContent__0E9pa" bis_skin_checked="1">
           <div bis_skin_checked="1">
-            Freelance Designer
+          UI/UX Design Intern<span> at PreMed.PK</span>
           </div>
           <div className="ProfileItem_description__9_b0E" bis_skin_checked="1">
             <p>Worked on a variety of freelance projects, providing design services for clients in different industries.</p>
@@ -165,10 +165,10 @@ const Resume = () => {
     <div className="ReplyContainer_replyContainerWrap__eWAYB" data-confirm="false" data-reply="false" data-admin="false" data-noreply="false" data-desktop="true" bis_skin_checked="1">
   <div className="ProfileItem_experience__YXtvH" data-flag="profileItem" bis_skin_checked="1">
     <div className="ProfileItem_duration__utkpJ" bis_skin_checked="1">
-      <span>2019 — 2021</span>
+      <span>2023 — 2024</span>
     </div>
     <div className="ProfileItem_experienceContent__0E9pa" bis_skin_checked="1">
-      <div bis_skin_checked="1">Visual Designer<span> at MarcoPolo Learning</span></div>
+      <div bis_skin_checked="1">Frontend Developer<span> at Syslify</span></div>
       <div className="ProfileItem_location__5TQPF" bis_skin_checked="1">London</div>
       <div className="ProfileItem_description__9_b0E" bis_skin_checked="1">
         <p>As the visual designer on a lean, cross-functional team building an award-winning children's educational app, I was responsible for a wide range of design projects. These included restructuring and redesigning the sign-up flow to increase install-to-trial rates, designing initial touch-points for the product (such as app store screens and in-app onboarding) as well as a variety of systems, materials and visuals to uphold and enhance the brand.</p>
