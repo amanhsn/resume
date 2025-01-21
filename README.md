@@ -1,4 +1,4 @@
-# Resume Project
+# Aman's CV
 
 This project is a personal resume website inspired by the UI of [Read.cv](https://read.cv/). It is built using [Next.js](https://nextjs.org/) and deployed on [Vercel](https://vercel.com/).
 
