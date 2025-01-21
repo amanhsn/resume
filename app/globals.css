@@ -47,7 +47,13 @@
   --wash2: #383838;
 }
 
+h2{
+  color: white;
+}
 
+a{
+  color: #ffffff;
+}
 
 @font-face {
   font-family: 'Graphik Sans';
@@ -81,6 +87,7 @@
 }
 
 div {
+  color: white;
   display: block;
   unicode-bidi: isolate;
 }
@@ -288,6 +295,10 @@ h3+.ReplyContainer_replyContainerWrap__eWAYB {
 .ProfileItem_duration__utkpJ:after {
   content: "0000 — 0000";
   visibility: hidden;
+}
+
+.ProfileItem_experienceContent__0E9pa {
+  color: white;
 }
 
 .ProfileItem_experienceContent__0E9pa, .ProfileItem_innerExperienceContent__0mXGV {
