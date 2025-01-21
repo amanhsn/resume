@@ -90,7 +90,7 @@ body {
 }
 
 .inWrapper {
-  max-width: 690px;
+  max-width: 540px;
   margin: 0 auto;
   padding: var(--content-padding) 0;
 }
