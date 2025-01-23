@@ -1,6 +1,8 @@
 'use client';
 import React from 'react';
 import './globals.css';
+import Image from 'next/image';
+import amanImage from '../public/aman.jpg'; // Import the image
 import { useState, useEffect } from 'react';
 
 
@@ -30,12 +32,14 @@ const Resume = () => {
               style={{ width: '92px', height: '92px', margin: 0 }}
               bis_skin_checked="1"
             >
-              <img
-                draggable="false"
+              {/* Use Next.js Image component */}
+              <Image
+                src={amanImage.src} // Use the imported image's src
                 alt="Aman Hussain"
-                src="/aman.jpg"
-                srcSet="/aman.jpg 1x, /aman@2x.jpg 2x, /aman@3x.jpg 3x"
+                width={92} // Explicitly set the width
+                height={92} // Explicitly set the height
                 style={{ opacity: 1 }}
+                priority // Optional: Optimize loading for important images
               />
             </div>
           </div>
@@ -62,7 +66,7 @@ const Resume = () => {
         </div>
         </section>
         <section data-print="true" id="contact" style={{opacity: 1}}>
-        <div class="Profile_breakInside__ZPmEM" bis_skin_checked="1">
+        <div className="Profile_breakInside__ZPmEM" bis_skin_checked="1">
         <h3>Contact</h3>
         <div className="ContactItem_contact__9zpDH" bis_skin_checked="1">
         <div className="ContactItem_platform__6b5md" bis_skin_checked="1">
@@ -78,7 +82,7 @@ const Resume = () => {
         </div>
         <div className="ContactItem_platformLink___dB19" bis_skin_checked="1">
         <div bis_skin_checked="1">
-        <a className="MegaLink_megalink__u_TFB" href="https://behance.com/amanhsn" target="_blank" rel="noopener noreferrer me" data-hover="true">Aman Hussain</a>
+        <a className="MegaLink_megalink__u_TFB" href="https://behance.com/amanhsn" target="_blank" rel="noopener noreferrer me" data-hover="true">amanhsn</a>
         <span style={{whiteSpace: 'nowrap'}}>﻿<svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M3.5 3C3.22386 3 3 3.22386 3 3.5C3 3.77614 3.22386 4 3.5 4V3ZM8.5 3.5H9C9 3.22386 8.77614 3 8.5 3V3.5ZM8 8.5C8 8.77614 8.22386 9 8.5 9C8.77614 9 9 8.77614 9 8.5H8ZM2.64645 8.64645C2.45118 8.84171 2.45118 9.15829 2.64645 9.35355C2.84171 9.54882 3.15829 9.54882 3.35355 9.35355L2.64645 8.64645ZM3.5 4H8.5V3H3.5V4ZM8 3.5V8.5H9V3.5H8ZM8.14645 3.14645L2.64645 8.64645L3.35355 9.35355L8.85355 3.85355L8.14645 3.14645Z" fill="#eee">
         </path></svg></span></div></div></div>
         <div className="ContactItem_contact__9zpDH" bis_skin_checked="1">
@@ -183,7 +187,7 @@ const Resume = () => {
       <div bis_skin_checked="1">Frontend Developer<span> at Syslify</span></div>
       <div className="ProfileItem_location__5TQPF" bis_skin_checked="1">Remote, Accrington, UK</div>
       <div className="ProfileItem_description__9_b0E" bis_skin_checked="1">
-        <p>At Syslify, I worked on the frontend for a AWS WAF Viewer for BeautyPie & the company's internal product, Deal Pakki, a c2c marketplace, collaborated with designers to develop the UI for the MVP.  </p>
+        <p>At Syslify, I worked on the frontend for a AWS WAF Viewer & the company's internal product, Deal Pakki, a c2c marketplace, collaborated with designers to develop the UI for the MVP.  </p>
       </div>
       <div className="ProfileItem_images__Z9kAd" bis_skin_checked="1"></div>
     </div>
