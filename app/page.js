@@ -218,7 +218,7 @@ const Resume = () => {
         </div>
         <div className="ProfileItem_experienceContent__0E9pa" bis_skin_checked="1">
           <div className="ProfileItem_title__rsz3J" bis_skin_checked="1">
-            <a className="MegaLink_megalink__u_TFB ProfileItem_titleLink__qXU7l" href="http://clinio.be" target="_blank" rel="noopener noreferrer" data-hover="true">
+            <a className="MegaLink_megalink__u_TFB ProfileItem_titleLink__qXU7l" href="https://www.behance.net/gallery/217896347/Clinio-Case-Study?" target="_blank" rel="noopener noreferrer" data-hover="true">
               Clinio™  Case Study
             </a>
             <span style={{ whiteSpace: 'nowrap' }}>
