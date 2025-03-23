@@ -52,7 +52,7 @@ const Resume = () => {
             </div>
             <div className="profileBadge" bis_skin_checked="1">
               <div data-custom-domain="false" className="badgeLink" bis_skin_checked="1">
-                <a className="MegaLink_megalink__u_TFB" href="http://behance.me/amanhsn" target="_blank" rel="noopener noreferrer" data-hover="false">
+                <a className="MegaLink_megalink__u_TFB" href="http://behance.net/amanhsn" target="_blank" rel="noopener noreferrer" data-hover="false">
                   amanhsn.com
                 </a>
               </div>
